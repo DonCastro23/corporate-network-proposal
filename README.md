@@ -12,7 +12,8 @@ Preview:
 ![Screenshot 2025-06-30 175914](https://github.com/user-attachments/assets/fddc937a-07d7-4304-9f3c-991cb29a60ca)
 
 Link to full doc:
-https://docs.google.com/document/d/16otOY1CW7Kw3SPwaGWpzTEWJp6Ooe7mX/editusp=drive_link&ouid=103781097674940879171&rtpof=true&sd=true 
+
+https://docs.google.com/document/d/16otOY1CW7Kw3SPwaGWpzTEWJp6Ooe7mX/edit?usp=drive_link&ouid=103781097674940879171&rtpof=true&sd=true
 
 The project included:
 
