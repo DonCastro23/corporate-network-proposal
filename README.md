@@ -11,11 +11,11 @@ Preview:
 
 ![Screenshot 2025-06-30 175914](https://github.com/user-attachments/assets/fddc937a-07d7-4304-9f3c-991cb29a60ca)
 
-Link to full doc:
+Link to Full Doc:
 
 https://docs.google.com/document/d/16otOY1CW7Kw3SPwaGWpzTEWJp6Ooe7mX/edit?usp=drive_link&ouid=103781097674940879171&rtpof=true&sd=true
 
-The project included:
+The Project Included:
 
 Virtualization setup using VMware for server deployment.
 Active Directory configuration with defined organizational units (OUs) and role-based access controls.
@@ -27,6 +27,7 @@ A Work Breakdown Structure (WBS) and appendices with step-by-step technical proc
 The deliverable was a fully documented proposal with technical implementation guides and system configuration strategies, simulating a real-world enterprise IT rollout.
 
 Key Highlights:
+
 Access Control: Demonstrated implementation of user/group management and role-based access using Active Directory and GPOs.
 Security Policy Enforcement: Applied system hardening measures (e.g., disabling cmd/run/search, enforcing password complexity, restricting user access).
 Audit and Monitoring: Introduced audit policies to log and detect suspicious activity, aligning with incident response best practices.
